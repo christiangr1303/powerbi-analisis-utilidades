@@ -1,0 +1,23 @@
+READ ME
+
+Descripción:
+
+En este proyecto desarrollé un dashboard orientado al análisis financiero y de rentabilidad de una empresa ficticia a nivel global.
+El objetivo fue evaluar cómo se distribuyen las utilidades por continente, identificar regiones más rentables y analizar la evolución del margen en el tiempo.
+
+Se incorporaron KPIs financieros, análisis temporal por trimestre, comparaciones geográficas y segmentación por categoría y tipo de producto.
+
+Objetivo: Analizar la rentabilidad de la empresa y entender qué continentes y países aportan más a la utilidad, considerando ingresos, gastos y margen.
+
+Preguntas a responder:
+
+- ¿Cuál es la utilidad total y el margen global?
+- ¿Qué continentes son más rentables?
+- ¿Cómo evoluciona la utilidad en el tiempo?
+- ¿Existen regiones con alto ingreso pero bajo margen?
+
+Insight clave:
+- América concentra cerca del 40% de la utilidad total, mientras que Asia y Europa presentan participaciones similares, lo que indica una rentabilidad más equilibrada entre estas regiones.
+
+Conclusión:
+- Este análisis permite priorizar inversiones, ajustar estrategias regionales y evaluar oportunidades de mejora en continentes con menor margen.
